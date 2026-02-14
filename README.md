@@ -6,4 +6,4 @@
 
  // created a project to fetch api endpoints from our previous all for one project with tailwind 
 
-// Peer Review
+// Viewed all the code i saw you had some errors but good job otherwise.
